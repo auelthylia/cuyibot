@@ -6,6 +6,7 @@ How to set up the Bot:
 Python 3.7 or higher
 
 Create 2 files, roles.txt and .env
+
 Store Bot Token, Bot Channel ID and Admin ID in their respective Key (BOT_TOKEN, BOT_CHANNEL_ID, ADMIN_ID)
 
 How to get Bot Token:
