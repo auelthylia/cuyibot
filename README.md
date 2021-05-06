@@ -5,9 +5,12 @@ How to set up the Bot:
 
 Python 3.7 or higher
 
-Create 2 files, roles.txt and .env
+Create 3 files, roles.txt, .env and twitterHandles.txt
 
-Store Bot Token, Bot Channel ID and Admin ID in their respective Key (BOT_TOKEN, BOT_CHANNEL_ID, ADMIN_ID)
+Look at Constants to see what to save in the .env 
+
+Twitter API:
+Google it 
 
 How to get Bot Token:
 Create a new Application on Discord Developer Portal and generate a new Token
