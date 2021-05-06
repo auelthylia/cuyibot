@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 '''
 Created on 04.04.2021
-Version 1.0.0 (04.04.21)
+Version 1.1.0 (06.05.21)
 @author: Creki
 '''
 
